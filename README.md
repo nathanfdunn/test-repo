@@ -13,7 +13,7 @@ class Foo:
 ```
 
 <table>
-    <tr>
+<!--     <tr>
         <td>
             ```python
                 class Foo:
@@ -32,7 +32,7 @@ class Foo:
             </pre>
 
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td>
             <pre><span class="pl-k">class</span> <span class="pl-en">Foo</span>:
