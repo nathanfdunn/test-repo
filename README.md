@@ -33,5 +33,12 @@ class Foo:
 
         </td>
     </tr>
-
+    <tr>
+        <td>
+            <pre><span class="pl-k">class</span> <span class="pl-en">Foo</span>:
+    <span class="pl-k">def</span> <span class="pl-en">blah</span>(<span class="pl-smi"><span class="pl-smi">self</span></span>):
+        <span class="pl-k">pass</span></pre>
+        </td>
+    </tr>
 </table>
+
