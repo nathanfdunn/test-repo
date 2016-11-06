@@ -6,6 +6,11 @@
 |`def __getitem__(self, value):`| def self[value]:|
 |`def __getitem__(self, value):`| def self[value]:|
 
+```python
+class Foo:
+    def blah(self):
+        pass
+```
 
 <table>
     <tr>
