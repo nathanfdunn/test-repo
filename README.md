@@ -5,6 +5,7 @@
 |`def __getitem__(self, value):`| def self[value]:|
 |`def __getitem__(self, value):`| def self[value]:|
 |`def __getitem__(self, value):`| def self[value]:|
+|`@staticmethod&#10;def __getitem__(self, value):`| def self[value]:|
 
 ```python
 class Foo:
