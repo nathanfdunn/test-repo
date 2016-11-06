@@ -17,7 +17,14 @@
             ```
 
         </td>
+        <td>
+            <code>
+                class Foo:
+                    def blah(self):
+                        pass
+            </code>
 
+        </td>
     </tr>
 
 </table>
